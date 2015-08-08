@@ -1,0 +1,35 @@
+Poterbujem prevod.
+------------------------------------------------------------------------
+LangString WELCOMEPAGE_DEC ${LANG_SLOVENIAN} "Èarovnik vas bo vodil skozi instalacijo Pred-NIPske uporabniškega interfejsa za galaxije Vojne Zvezd. $\r$\n$\nProsim obišèite http://www.anach.tk za preveritev najnovejše verzije."
+------------------------------------------------------------------------
+LangString FINISHPAGE_DEC ${LANG_SLOVENIAN}"Prosim vzemite si malo èasa da preberite preberi me datoteko zaradi važnjih informacij. $\r$\n$\nProsim obišèite spodnjo povezavo za preveritev novic o uporabniškem interfejsu po vsakem poglavju ali objavi."
+------------------------------------------------------------------------
+${ReadmeLanguage} "${LANG_SLOVENIAN}" \
+          "Preberi me" \
+          "Prosime preberite naslednje vazne informacije." \
+          "Spremembe $(^name):" \
+          "$\n  Kliknite na pušèice ali pritisnite stran dol na tipkovnici da preberite ves tekst."
+          
+------------------------------------------------------------------------          
+LangString DESC_SecGrpCamera ${LANG_SLOVENIAN} "Kamera opcije"
+  LangString DESC_SecOverShoulderCamera ${LANG_SLOVENIAN} "Centrirana kamera - menja med centrirano zaglavno kamero in nadramno kamero."
+  LangString DESC_SecOverheadCamera ${LANG_SLOVENIAN} "Nadglavna kamera - menja med centrirano zaglavno kamero in nadglavno kamero."
+  LangString DESC_SecGrpCursors ${LANG_SLOVENIAN} "Kazalne opcije"
+  LangString DESC_SecFullCursors ${LANG_SLOVENIAN} "Pred-NIPski miškovni kazalci polne velikosti."
+  LangString DESC_SecSmallCursors ${LANG_SLOVENIAN} "Pred-NIPski miškovni kazalci petindvajset odstotne velikosti."
+  LangString DESC_SecReadme ${LANG_SLOVENIAN} "Preberi me, spremembe, peletne informacije in slikce."
+  LangString DESC_SecUI ${LANG_SLOVENIAN} "Potrebno: Datoteke uporabniškega interfejsa."
+  LangString DESC_SecGrpOptions ${LANG_SLOVENIAN} "Opcijonalni deli"
+  LangString DESC_SecExamineWithBadges ${LANG_SLOVENIAN} "Preiskovalno okence z izložbo starih nagrad in popravljenem zgruditeljskim gumbom." 
+  LangString DESC_SecSmallerGroupWindow ${LANG_SLOVENIAN} "Vitko skupinsko okence."
+  LangString DESC_SecGrpMenubar ${LANG_SLOVENIAN} "Opcijonalni menijski drogi."
+  LangString DESC_SecColoredMenubar ${LANG_SLOVENIAN} "Pobarvani, vodoravni menijski drog z gumbih za kolekcije in strokovnjaštvo."
+  LangString DESC_SecOriginalMenubar ${LANG_SLOVENIAN} "Prvotni, vodoravni menijski drog brez gumbov za kolekcije in strokovnjaštvo."
+  LangString DESC_SecColoredSpaceMenubar ${LANG_SLOVENIAN} "Pobarvani, vodoravni vesoljski menijski drog s gumbom za kolekcije, strokovnjaštvo in domaèo luko."
+  LangString DESC_SecOriginalSpaceMenubar ${LANG_SLOVENIAN} "Prvotni, vodoravni vesoljski menijski drog brez gumbov za  kolekcije, strokovnjaštvo ali domaèo luko."
+  LangString DESC_SecToolbar ${LANG_SLOVENIAN} "Orodniški drog brez velike ikone."
+  LangString DESC_SecWhiteHAMs ${LANG_SLOVENIAN} "ZA(P) drogovi z belim ozadjem."
+  LangString DESC_SecResizableNetStatusWindow ${LANG_SLOVENIAN} "Kompaktno, spremenljivo okence za omrežni status."
+------------------------------------------------------------------------
+
+LangString UninstLogMissing ${LANG_SLOVENIAN} "${UninstLog} manjka!$\r$\nDeinštalacija ne more napredovati!"

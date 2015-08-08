@@ -1,0 +1,34 @@
+Benötige Übersetzungen.
+------------------------------------------------------------------------
+LangString WELCOMEPAGE_DEC ${LANG_GERMAN} "Dieser Setup Assistent wird Sie durch die Installation der Vor-NSV Benutzerschnittstelle für Krieg der Sterne Galaxien leiten. $\r$\n$\nBitte stellen sie durch die Überprüfung von http://www.anach.tk sicher, daß Sie die neueste Version installiert haben."
+------------------------------------------------------------------------
+LangString FINISHPAGE_DEC ${LANG_GERMAN}"Bitte nehmen Sie sich einen Moment Zeit, um die Liesmich Datei zwecks relevanter Informationen einzusehen. $\r$\n$\Stellen Sie sicher, dass sie die Verknüpfung unten nach jedem Kapitel/jeder Veröffentlichung von Star Wars Galaxies besuchen."
+------------------------------------------------------------------------
+${ReadmeLanguage} "${LANG_GERMAN}" \
+          "Liesmich" \
+          "Bitte lesen Sie die folgenden wichtigen Informationen."\
+          "Änderungslogbuch für $(^name):" \
+          "$\n Klicken Sie auf die Pfeile der Roll-Leiste oder drücken Sie Bild Auf oder Bild Ab, um den Gesamten Text einzusehen."       
+------------------------------------------------------------------------          
+LangString DESC_SecGrpCamera ${LANG_GERMAN} "Kamera Optionen"
+  LangString DESC_SecOverShoulderCamera ${LANG_GERMAN} "Zentrierte Kamera - Schaltet zwischen zentrierter Hinterkopfkamera und Schulterkamera um."
+  LangString DESC_SecOverheadCamera ${LANG_GERMAN} "Überkopf Kamera - Schaltet zwischen zentrierter Hinterkopfkamera und Überkopfkamera um."
+  LangString DESC_SecGrpCursors ${LANG_GERMAN} "Zeigeroptionen"
+  LangString DESC_SecFullCursors ${LANG_GERMAN} "Vollbusige Vor-NSV Mauszeiger."
+  LangString DESC_SecSmallCursors ${LANG_GERMAN} "Fünfundzwanzig Prozent kleinere Vor-NSV Mauszeiger."
+  LangString DESC_SecReadme ${LANG_GERMAN} "Liesmich, Änderungslogbuch, Paletteninformationen und Bildeinschüsse."
+  LangString DESC_SecUI ${LANG_GERMAN} "Benötig: BS Dateien"
+  LangString DESC_SecGrpOptions ${LANG_GERMAN} "Optionale Komponenten"
+  LangString DESC_SecExamineWithBadges ${LANG_GERMAN} "Überprüfungsfenster mit Alter, Abzeichenanzeige und repariertem Einsturzknopf."
+  LangString DESC_SecSmallerGroupWindow ${LANG_GERMAN} "Gruppenfenster mit Schlanker Linie."
+  LangString DESC_SecGrpMenubar ${LANG_GERMAN} "Optionale Menüleisten."
+  LangString DESC_SecColoredMenubar ${LANG_GERMAN} "Gefärbte Horizontale Menüleiste mit Kollektions- und Fachwissensknöpfen."
+  LangString DESC_SecOriginalMenubar ${LANG_GERMAN} "Ursprüngliche Horizontale Menüleisteohne Kollektions- und Fachwissensknöpfen."
+  LangString DESC_SecColoredSpaceMenubar ${LANG_GERMAN} "Gefärbte Horizontale Weltraum Menüleiste mit Kollektions-, Fachwissens- und Heimathafenknöpfen."
+  LangString DESC_SecOriginalSpaceMenubar ${LANG_GERMAN} "Gefärbte Horizontale Weltraum Menüleiste mit Kollektions-, Fachwissens- und Heimathafenknöpfen."
+  LangString DESC_SecToolbar ${LANG_GERMAN} "Werkzeugleiste ohne großer Ikone."
+  LangString DESC_SecWhiteHAMs ${LANG_GERMAN} "GA(V) Latten mit weissem Hinterngrund."
+  LangString DESC_SecResizableNetStatusWindow ${LANG_GERMAN} "Kompaktes und Größenveränderbares Netzstatusfenster."
+------------------------------------------------------------------------
+
+LangString UninstLogMissing ${LANG_GERMAN} "${UninstLog} nicht gefunden!$\r$\nDeinstallation kann nicht fortgesetzt werden!"

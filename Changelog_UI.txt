@@ -1,0 +1,596 @@
+VERSION HISTORY
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+(IMPORTANT: remove old version before installing new)
+
+15.1.1106.1000 04/06/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Updated ui_styles.inc with new chapter artwork
+
+15.1.1106.0900 01/05/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Updated ui_styles.inc with new chapter artwork
+
+15.1.1106.0800 13/03/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Updated ui_styles.inc with new chapter artwork
++ Updated ui_options.inc with new chapter options.
+
+15.0.1106.0702 24/02/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Fixed options menu crash.
+
+
+15.0.1106.0700 10/02/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+CAMERA
+- Removed redundant custom camera options (Delete your camera folder.)
+
+MISC.
++ Updated ui_styles.inc with new chapter artwork
++ Updated ui_options.inc with new chapter options.
++ Reworded "Save settings" dialogue on installer.
+
+14.5.1106.0600 12/01/09
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Added icon for appearance tab to colour horizontal menubars
++ Added appearance menu item for popup NGE style menus.
+
+MISC
++ Updated ui_Styles.inc with new artwork
++ added appearance options to in-game control panel.
++ Updated examine window compatibility with appearance data.
++ Adjusted examine window background size (right pane)
+
+14.2.1106.0511 27/12/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+TOOLBAR
++ Removed toolbar look-at target selection as per offical patch notes.
+MISC
++ Updated ui_styles.inc for missing icons.
+
+
+14.2.1100.0511 20/11/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Added Faction icon to left of player-name display.
++ Made some alignment changes to target and secondary target display.
+
+MISC
++ Updated ui_options.inc
++ Updated ui_styles.inc
+
+
+14.1.1003.0511 16/10/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Updated ui_styles.inc for latest patch.
++ Changed version numbering - Check Readme "VERSION NUMBERING" secion.
+
+
+14.1.10.5 20/08/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Fixed classic menubars. Should no longer crash the game.
+
+
+14.0.10.5 20/08/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Minor adjustments to Speaking Icon alignment on group window.
++ Increased size of Pet HAM slightly to match slimline group window.
+
+TOOLBAR
++ Pane selector on all toolbars now aligned with top row (pre-NGE.)
+
+MENU
++ Added TCG shortcut button to all menubars except the "Classic".
+
+MISC
++ Added option to automatically check for UI updates at Windows Startup.
++ Updated ui_styles.inc with TCG data.
++ Renamed "Original" Menubar to "Classic" in the installer options.
+
+
+13.8.10.5 1/08/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MISC
++ Fixed immovable location display and chat window.
+
+
+13.7.10.5 29/07/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Popup Menu should no longer appear below horizontal style Menubars.
+
+HAM
++ All HAM bars now show "Speaking" icon for voice chat below level.
+
+MISC
++ Updated in-game Options panel for voice tab.
++ Option panel changed to "Toolbar Spacing" instead of "Spaced Toolbar"
++ Updated ui_styles.inc
+
+
+13.4.10.4 09/07/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Mail Icon will once again flash when new mail arrives.
+
+MISC
+- Removed unneeded resource.inc
++ Updated ui_styles.inc
+
+
+13.0.10.4 19/06/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Updated all group windows for new group pickup functionality
+
+MISC
++ Updated ui_styles.inc with new chapter artwork and changes.
+
+
+v12.5.9.4 06/06/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Fixed "Homeport" button on horizontal space menubars.
+
+
+v12.4.9.4 30/05/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Fixed action bar gap on Slimline group window.
+
+
+v12.3.9.4 29/05/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+MENU
++ Fixed crashed caused by "Original" Horizontal Menubars.
+
+MISC
++ Updated some screenshots in the screenshots folder.
+
+
+v12.2.9.4 28/05/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Fixed buff timer size for player HAM.
++ Reduced Standard Group window buff size to 16px from 22px (See notes)
++ Increased buff/debuff display on standard Group window to 14 icons.
++ Adjusted size of slimline group window to allow for debuff icon gap.
+
+MENU
++ Mouse no longer jumps to window when clicking horizontal menubar.
+
+
+v12.1.9.4 27/05/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+TOOLBAR
++ Fixed alignment issue of non-spaced Space toolbar.
++ Added Pre-CU Size toolbar option with matching pet toolbar.
+
+HAM
++ updated Buff/debuff icons to display counter for new buff stacking.
+
+
+MISC
++ ui_styles.inc updated with new GU4 content.
+- removed custom fix for transparent role icons in ui_styles.inc.
+- removed ui_anach_new_icons.dds as it is no longer needed.
++ ui_options.inc updated with new GU4 content.
++ Re-added Fading quest helper (was missing from optional components)
+
+
+INSTALLER
++ Remembered install options will only be kept on a per version basis.
+
+
+v12.0.9.3 28/04/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+MISC
++ Pre-NGE UI mod now has an installer.(See Readme Section II)
++ Updated ui_styles.inc for Jedi/BH Expertise changes.
++ In-game Control Panel shows UI Version and "Spaced Toolbar" Checkbox.
++ Fixed location of Control Panel "Ok" & "Cancel" buttons on resize.
++ Fixed overlapping of OK/Cancel on harvestor resource quantity window.
++ Added a couple missing cursor texture files.
++ Added support for custom UI colour Palettes (See notes).
++ Fixed duplicate examine window - Badges display in optional version.
+
+CHAT
++ Couple minor relative-opacity tweaks.
+
+MENU
++ Added Space Menubar with original buttons.
++ Adjusted space menubar alignment.
+
+HAM
++ Minor adjustments for resizable Buff/Debuff Icons.
++ Fixed incorrect maximum size for white Player HAM.
++ Fixed cut off target Distance text for group and Pet HAM.
+
+
+v11.0.9.2 03/04/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+HAM
++ Renamed "Group Window - Smaller" folder to "Group Window - Slimline"
++ Slimline Group window & Pet HA(M) sizes have been standardized.
++ Fixed semi-transparent role icons for Smuggler, Jedi, BH, Commando.
++ Default Group Window size standardized with player/target HA(M)
+
+TOOLBARS
++ Toolbars are completely overhauled for this release.
++ Toolbar top/bottom rows now have Pre-NGE orientation (See notes)
++ Toolbars will manually resize vertically from one to two rows.
++ "Expand Toolbar to a Second Row" now expands the toolbar horizontally.
++ Toolbar Pane selection text now uses UI colour schemes.
++ Toolbar pane selector and Big Icon are now centred vertically.
++ Fixed Toolbar Big Icon 3d Icon viewer alignment and overlap issue.
++ Added resizable and improved space Toolbar (see notes)
+
+RADAR
++ Radar Region text display fades with the Range display option.
+
+MENU
++ Space Menubar is now in its own file 'ui_hud_space_buttonbar.inc'
++ fixed location of 'Homeport' and 'Ship Details' Buttons.
+
+MISC
++ Added optional fully fading Quest Helper (see notes).
++ Added optional 25% smaller Pre-NGE Cursors for ground & Space.
++ Updated ui_styles.inc for Chapter 9 compatibility.
++ UI window backgrounds fade correctly using UI transparency slider.
++ UI windows text & HAM fade correctly using UI transparency Slider.
++ Various alignment adjustments to all windows (To keep Gerric Happy)
++ Cleaned up extraneous code in ui_ground_hud.inc and ui_hud_space.inc.
+
+
+v10.2.8.2 15/03/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed Buff/debuff overlapping of 3rd Buff row for all HA(M) displays.
+- Removed deadspace underneath each HA(M) window.
++ Pet HA(M) is now in it's own file "ui_ground_hud_pet.inc"
+- Removed some empty folders in the zip file (Hidden by winzip).
+
+v10.1.8.2 14/03/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed buff/debuff overlapping HA(M) for all HA(M) displays.
+- Removed broken 2x Buff row Group windows.
+
+
+v10.0.8.2 13/03/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+I Recommend removing your SWG/Profiles/Account/Server/.uis files to 
+reset your HUD and make sure everything works correctly. A lot of 
+changes in this release.
+
+HA(M) - See Notes
+- Resizing HA(M) unfortunately disabled by the new debuff display.
++ Increased default HA(M) sizes to compensate for lack of resizing.
++ Player,Target & Pet HA(M)s show more buffs and have double rows.
++ Pet HA(M) Displays direction arrow and distance.
++ Pet HA(M) now has a white background variant.
++ Added Optional thinner Group window (Also in white).
++ Added Optional thinner group window with 2x Buff rows (Also in White).
++ Standardized sizing & alignment of Player, Target & Secondary HA(M).
++ Better compacted HA(M) bar to fill slack space from long removed 
+Mind bar .
+
+MENU
++ Pre-NGE Menubars now save position & hide when using CTRL+SHIFT+H.
++ Optional Pre-NGE style Menubar uses NGE Icons (see notes.)
++ Added Optional horizontal Space menubar with NGE Icons.
++ Optional Horizontal menubars now have Expertise & Collections buttons.
++ Optional Horizontal Space Menubar has "Homeport" & "Ship Details" 
+buttons.
+
+TOOLBAR
++ Fixed missing throttlebar on "Spaced" toolbar.
++ Added static numbers to bottom of "Spaced" toolbar (see known issues.)
++ Added pre-NGE corner markers to the pet toolbar.
+
+CHAT
++ Fixed problem with secondary chat windows being cut off (Hopefully).
++ Fixed Chatbox will now Fadeout when "Chat box fade" is turned on.
+
+RADAR
++ Adjusted resizing to make it smoother and cleaned up some deadspace.
++ Improved alignment of radar borders, controls and text display.
+
+MISC
++ General code clean up allround.
++ Added a custom resizable Net Status window. (See screenshots)
++ Default camera views are now Behind Head/Over Shoulder (see notes.)
++ Included GerricSablestar's Pre-NGE Style Collection window (Now 
+resizable)
++ Added old style badge display "Examine" window, with fixed collapse 
+button.
++ New user-friendly "Pre-NGE UI Addons" Folder with screenshots.
++ Moved old "Version History" to separate "Changelog_UI.txt" file.
++ Change to Version numbering. V10.1.8.2 = UI V10.1, Chapter 8, Game 
+Update 2.
+
+
+(Big thanks to GerricSablestar for additions, help & advice for this 
+version)
+
+
+v9.8.2 12/02/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ minor additions to th ui_styles.inc
++ added jedi colours templates for space (thanks Zab Punk)
+
+
+v9.8.0 15/01/08
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Minor additions to the ui_styles.inc
+
+
+v9.7.2 21/11/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Minor update to the medic icons in ui_styles.inc
+
+
+v9.7.1 8/11/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ default toolbar was missing the active special icon.
+
+
+v9.7.0 2/11/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Radar Range Fade Support
++ Collection UI artwork.
++ Added new Menubar Options.
+
+
+v9.6.4 26/07/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Added species specific ability icons. (ui_styles.inc)
+
+
+v9.6.3 05/06/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ fixed the group window Role icon colours.
+
+
+v9.6.2 02/06/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed role icon colour for Standard, Alternate & Pet HA(M) bars.
+
+
+v9.6.1 31/05/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed issue with pet buff icon alignment.
+
+
+v9.6.0 22/05/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ changed default location of all UI Elements to reflect NGE orientation.
++ Added Beast Master ui artwork to ui_styles.
++ Added Pre-NGE themed Beast Master Toolbar.
++ Added Pre-NGE themed Beast resizable HA(M) display.
++ Fixed missing Top Right corner graphic on all toolbars
++ added 2nd Alternate toolbar folder with "Spaced" toolbar (check notes)
+(Wrong profession role icon? Double click the icon to fix. SOE's bug 
+not mine)
+
+
+v9.5.0 20/02/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Updated ui_styles.inc for chapter 5.
+
+
+v9.4.3 04/01/07
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Added new secondary target HA(M) for normal and "alternate"
+
+
+v9.4.0 30/11/06 (chapter 4)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Added Commando kill counter
++ Added Commando Expertise Artwork.
++ Added Spy Expertise artwork.
++ Added Medic Expertise Artwork.
++ Made minor radar corrections.
++ Code updates to all UI files.
++ Switched default toolbar back to big icon version. 
++ Can now target through all Interface elements.
+-Removed unused "ui_ground_group.inc"
+
+
+v9.3.4 5/11/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ fixed horizontal menubar position (again)
+
+
+v9.3.3 2/11/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Removed ui_ground_hud_buttonbar.inc (Now a single file)
++ Checked minidump.log and ui.log for errors (TH)
++ Popup Menu now default. Horizontal menu is in the 'alternate' menu 
+folder.
+
+
+v9.3.2 18/10/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed target buff/debuff icon alignment.
+
+
+v9.3.1 13/10/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Removed ui_pda_inventory.inc (was causing crashes)
++ Fixed position of buttonbar (Menubar)
+
+
+v9.3.0 12/10/06 (Chapter 3.2)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Radar Zoom & con icons now use ui colours.
++ added borders to Radar.
++ Added new publish 3.2 officer ability icons.
++ Brought Target & Player HAM up to current live version.(HAM notes)
+-Removed unneeded "ui_ground_hud_group_skinned.inc".
+
+
+v9.2.1 05/10/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed dead area to right of default toolbar.
++ Moved zoom buttons on radar back to default locations.
++ Updated location display and Radar default location.
+
+
+v9.2.0 27/09/06 (Chapter 3)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Toolbar skin fixed for second row.
++ Alternate menubar now movable again.
++ Partially fixed radar skin (unfinished).
++ Fixed Movable (detachable) Location display skin.
++ Added preNGE style inventory.
++ Added GUI elements for Officer/Smuggler expertise.
++ Switched default toolbar to have no big icon. (Alternate now has icon)
++ Included alternate camera version. (see CAMERA notes)
+- Removed unneeded ground/space quest helper files.
+- Removed unneeded activate/deactivate cursors.
+
+
+v9.1.3 16/08/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed missing targets file (More Gremlins)
+
+
+v9.1.2 16/08/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ fixed missing files for Player HAM
++ added new cursor for Auto-Attack mode.
+
+
+v9.1.1 16/08/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ chapter 2.3 centred camera height adjustment. (see CAMERA notes)
+
+
+v9.1.0 01/08/06 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ added artwork for expertise system
++ added icons for new abilities
++ added 'Expertise' option to the NGE popup menu.
++ fixed group window.
+-Removed data for CU respec window (no longer usable)
++ disabled groupwindow horizontal resize. (wasnt meant to be)
++ HA(M) should no longer shrink after resize.
++ Added alternate HA(M) with white backgrounds.
+Remove any Previous versions before Installation
+
+
+v9.01 10/07/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ fixed missing button on preNGE buttonbar after resize.
++ fixed group window resizing (Included old file by mistake)
++ fixed Using the alternate menubar will no longer display both Menubars.
+
+
+v9.0 08/07/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ PreNGE Resizable and Movable Button Bar now replaces button menu. 
+(See Known Issues)
++ Added alternate space themed menu bar.
++ Alternate menubar now flashes when you have new mail or journal 
+entries.
++ Made button for menubar slightly smaller to match space version.
++ Chase camera is now centered.
++ Fixed dragable region on Toolbar
++ Fixed targetting dead area at lower right of screen (Devs fault, 
+with old button menu).
++ Fixed position of various windows upon first login.
+
+
+v8.9 02/07/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Added PreNGE cursors & Crosshairs
+
+
+v8.8 29/06/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed Radar/Compass resizing issue.
++ Fixed Region text location.
++ Radar border now fades.
++ Fixed issue of Toolbar BigViewer icon showing up for some professions.
++ Group Window can now collapse.
+
+
+v8.7 10/06/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Fixed problem of detached chat windows being sliced on login.
+
+
+v8.6 09/06/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
++ Added the correct file for the "BigViewer" version of the toolbar. 
++ Fixed some code for toolbars.
+
+
+v8.5 09/06/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Readded Resizable Radar
+
+
+v8.1b 08/06/06 (Publish 29)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Added Throttlebar to toolbar
+ -Removed preNGE radar (see notes)
+ + Added PreNGE style experience monitor (resizable)
+ + Added alternate toolbar with no Big button (Thanks Combat_Medic)
+
+
+v7.1 28/05/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Made Radar resizable
+ + Fixed missing icon.
+
+
+v7 19/04/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ -Removed Mindbar from player, target and group HAM display.
+ + Increased size of action bar SLIGHTLY to fill gap left by mind bar.
+ + Added publish 28 icons.
+
+
+v6 16/02/06 (Publish 27)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Updated to include new ability icons.
+ + Movable space quest helper.
+
+
+v5 21/1/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Code fixes
+ + Movable quest helper.
+
+
+v4 20/01/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Increased size of active icon to match timer.
+ + Button bar skin changed to same as space.
+
+
+v3 19/01/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Now includes Jedi Themes.
+
+
+v2 19/01/06
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Added toolbar
+ + Movable button bar (Press button, drag popup box)
+
+
+v1 24/12/05
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ + Radar, Chat boxes, HAM and Group themes restored
+ + Resizable HAM bars
+ + Movable group window.
