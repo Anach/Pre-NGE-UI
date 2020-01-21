@@ -7,5 +7,6 @@ and add the following code to line 1244:
     <include>ui_ground_hud_side_toolbar_skinned.inc</include>
 
 it should now look like this:
+
 		<include>ui_ground_hud_toolbar_skinned.inc</include>
 		<include>ui_ground_hud_side_toolbar_skinned.inc</include>
